@@ -8,6 +8,7 @@ Lenguajes de programación: Python.
 Desarrollo de software: Diseño de bases de datos relacionales, optimización de código y estructuras de datos eficientes.
 Administración de sistemas: Gestión de entornos tecnológicos y automatización de tareas.
 Gestión de proyectos tecnológicos: Implementación de soluciones para optimización de procesos en diversos sectores.
+
 🔹 Experiencia y proyectos
 Desarrollo de software seguro aplicando buenas prácticas de ciberseguridad.
 Automatización y análisis de datos en Python.
